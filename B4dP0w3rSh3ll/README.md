@@ -1,3 +1,6 @@
+<img src= https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/disclaimer.png width="600" alt="C#" />
+</div>
+
 # what does it do? 
 
 basically it st3als:Wi-Fi pas, anti virus info and browser pas(all) 
